@@ -1,0 +1,5 @@
+package parasgit
+
+object sparkgitobj {
+  
+}
